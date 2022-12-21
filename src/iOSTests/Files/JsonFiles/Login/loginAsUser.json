@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "email": "test@test.ru",
+  "status": "active",
+  "name": "name",
+  "surname": "surname",
+  "access": {
+    "demo": {
+      "title": "Log in as user",
+      "roles": [
+        "user"
+      ]
+    }
+  },
+  "department": ""
+}
